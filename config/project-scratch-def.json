@@ -1,0 +1,13 @@
+{
+  "orgName": "some company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi", "IndustriesManufacturing"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
